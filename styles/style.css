@@ -1,0 +1,55 @@
+.first-h {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+
+.first-section {
+    display: flex;
+}
+
+.first-a {
+    color: whitesmoke;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 8px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+}
+
+.first-div,
+.second-div {
+    width: 50%;
+    margin: 80px;
+}
+
+.thard {
+    display: flex;
+    padding-left: 150px;
+}
+
+.thard-div {
+    padding: 40px;
+}
+
+.fifth-div {
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+}
+
+.seventh-div {
+    color: gray;
+    font-size: 20px;
+}
+
+.first-span {
+    font-size: 25px;
+}
+
+.faild {
+    color: gold;
+}
+
+.fa-star-half-stroke {
+    color: gold;
+}

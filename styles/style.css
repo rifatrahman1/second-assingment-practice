@@ -3,9 +3,41 @@
     font-size: 50px;
 }
 
+.leader-web {
+    background-color: rgb(56, 6, 96);
+}
+
+.responsive {
+    font-size: 30px;
+    color: white;
+    padding-left: 55px;
+
+
+}
+
+.first-nav {
+    display: flex;
+    padding-top: 3%;
+
+}
+
+
+.main-div {
+    display: flex;
+    margin-left: 50%;
+    font-size: 20px;
+    color: rgb(250, 248, 248);
+
+}
+
+.a {
+    color: white;
+}
+
 .first-section {
     display: flex;
 }
+
 
 .first-a {
     color: whitesmoke;
@@ -15,6 +47,21 @@
     padding-left: 35px;
     padding-right: 35px;
     border-radius: 10px;
+}
+
+.second-a {
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: palevioletred;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+}
+
+.second-div img {
+    width: 450px;
+    height: 450px;
 }
 
 .first-div,
@@ -32,6 +79,16 @@
     padding: 40px;
 }
 
+.forth-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 26px;
+    padding: 160px;
+    padding-top: 25px;
+
+}
+
+
 .fifth-div {
     font-family: 'EB Garamond', serif;
     font-size: 25px;
@@ -42,8 +99,44 @@
     font-size: 20px;
 }
 
+.eight-div {
+    display: flex;
+    margin: 100px;
+    margin-bottom: 10%;
+    padding-top: 100px;
+    padding: 100px;
+}
+
+.nine-div {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 50px;
+    bottom: 70px;
+    font-size: 20px;
+}
+
+.ten-div {
+    color: gray;
+}
+
+
 .first-span {
     font-size: 25px;
+}
+
+.second-span {
+    background-color: rgb(214, 67, 116);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.thard-span {
+    color: red;
+}
+
+.forth-span {
+    color: gray;
 }
 
 .faild {
@@ -52,4 +145,39 @@
 
 .fa-star-half-stroke {
     color: gold;
+}
+
+.first-artical {
+    display: flex;
+    box-shadow: 5px 5px 5px 5px;
+    color: gray;
+    padding-left: 25px;
+    margin: 20px;
+}
+
+.images {
+    margin-top: 20px;
+}
+
+.div-h {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 90px;
+}
+
+.footer-h {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    padding-bottom: 100px;
+    height: 135px;
+    text-align: center;
+}
+
+.icon {
+    font-size: 35px;
+    color: white;
+    padding-left: 30px;
 }
